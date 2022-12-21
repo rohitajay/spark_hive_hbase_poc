@@ -89,14 +89,22 @@ v. Quick Access to data
 
 #### Use Case Example 
 
+
+Online Computer Library Center
+
+-
 ![img_11.png](img_11.png)
 
+Social Media 
+
+-
 ![img_10.png](img_10.png)
 
 
 ### Hive 
 
-![img_12.png](img_12.png)
+- 
+![img_14.png](img_14.png)
 
 ## Summary 
 All these open-source tools and software are designed to help process and store big data and derive useful insights from it.  
